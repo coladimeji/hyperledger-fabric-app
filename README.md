@@ -76,3 +76,13 @@ cd test-network
 ![sc](https://github.com/CccrizzZ/hyperledger-fabric-app/blob/master/sc22.png)
 ![sc](https://github.com/CccrizzZ/hyperledger-fabric-app/blob/master/sc1.png)
 ![sc](https://github.com/CccrizzZ/hyperledger-fabric-app/blob/master/sc2.png)
+
+
+### Created channels
+![image](https://user-images.githubusercontent.com/32521595/157055107-05e6c7bb-4043-4cb5-9712-d465db2b0a0a.png)
+![image](https://user-images.githubusercontent.com/32521595/157055216-611a4c11-2bc4-4f01-aa43-76aa4a97918f.png)
+
+##couchDB
+![image](https://user-images.githubusercontent.com/32521595/157055258-0072f6cf-8677-4db8-8cab-38e1a999f2a8.png)
+
+
